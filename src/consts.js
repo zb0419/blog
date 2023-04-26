@@ -1,8 +1,8 @@
 export const SITE_TITLE = `Air Blog`;
 export const SITE_DESCRIPTION = 'Site Description';
 export const SITE_EMAIL = '22532453@qq.com'
-export const SITE_NAME = 'www.jizhouyao.xyz';
-export const SITE_URL = "https://www.jizhouyao.xyz";
+export const SITE_NAME = 'www.jizhouyao.top';
+export const SITE_URL = "https://www.jizhouyao.top";
 export const SITE_LANG = "zh-CN";
 
 // Author, used only when author is not specified on the page, 
